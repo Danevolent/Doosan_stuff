@@ -8,3 +8,6 @@ Prototype program to display connected Doosan status within terminal.
 ```bash
 pip install  -U pymodbus
 ```
+
+# Running
+Run RobotStateDisplay.py either from terminal or within VSCode.
