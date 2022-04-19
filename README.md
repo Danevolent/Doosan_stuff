@@ -1,1 +1,9 @@
-"# Doosan_stuff" 
+# Doosan_stuff
+
+Miscellanious programs made to be used with Doosan collaborative robots.
+Programming langauges are mixed between Python and, the python-based, Doosan Reference Language (DRL).
+
+# Installing Dependancies
+```bash
+pip install  -U pymodbus
+```
